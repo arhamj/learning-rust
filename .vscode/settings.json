@@ -3,4 +3,8 @@
         "editor.defaultFormatter": "rust-lang.rust-analyzer",
         "editor.formatOnSave": true
     },
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml",
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false,
 }
